@@ -1,0 +1,6 @@
+{
+  "name": "BeatBingo - Live Musical Bingo Platform",
+  "description": "Host live song bingo games with Spotify & Apple Music playlists, 200 digital or printable tickets, dual-screen host controls, and instant winner verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
